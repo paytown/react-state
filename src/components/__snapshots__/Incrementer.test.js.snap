@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`incrememnter adds a number when button clicked 1`] = `
+<Fragment>
+  <p>
+    You pushed that button 
+    0
+     times!
+  </p>
+  <button
+    onClick={[Function]}
+    style={
+      Object {
+        "cursor": "pointer",
+      }
+    }
+  >
+    Poke!
+  </button>
+  <button
+    id="reset"
+    onClick={[Function]}
+    style={
+      Object {
+        "cursor": "pointer",
+      }
+    }
+  >
+    Reset
+  </button>
+</Fragment>
+`;
