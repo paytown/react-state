@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`coloooor colors fade randomly 1`] = `
+<div
+  style={
+    Object {
+      "background": "",
+      "height": "100vh",
+      "transition": "background-color 2500ms linear",
+      "width": "100%",
+    }
+  }
+/>
+`;
