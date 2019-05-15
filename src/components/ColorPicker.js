@@ -13,7 +13,7 @@ function ColorPicker({ selectColorHandler }) {
 }
 
 ColorPicker.propTypes = {
-  selectColorHandler: PropTypes.func.isRequired
+  selectColorHandler: PropTypes.func
 };
 
 export default ColorPicker;
